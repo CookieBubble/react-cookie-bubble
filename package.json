@@ -1,0 +1,45 @@
+{
+  "name": "react-cookie-bubble",
+  "version": "1.0.1",
+  "description": "The easy way to inform users that your website is using cookies.",
+  "main": "build/index.js",
+  "author": "João Pereira",
+  "email": "joaopereirawd@gmail.com",
+  "license": "MIT",
+  "homepage": "https://github.com/CookieBubble/react-cookie-bubble",
+  "bugs": "https://github.com/CookieBubble/react-cookie-bubble/issues",
+  "repository": {
+    "url": "https://github.com/CookieBubble/react-cookie-bubble",
+    "type": "git"
+  },
+  "peerDependencies": {
+    "react": "^15.5.4"
+  },
+  "dependencies": {
+    "npm": "^6.5.0",
+    "react": "^15.5.4",
+    "webpack": "^2.6.1",
+    "styled-jsx": "^3.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1",
+    "copy-webpack-plugin": "^4.6.0",
+    "css-loader": "^2.1.0",
+    "file-loader": "^3.0.1",
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-watch": "^5.0.1",
+    "style-loader": "^0.23.1",
+    "url-loader": "^1.1.2"
+  }
+}
