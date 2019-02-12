@@ -1,7 +1,7 @@
 # react-cookie-bubble
-CookieBubble is the easy and beautiful way to inform users that your website is using cookies. 
+`react-cookie-bubble` is the easy and beautiful way to inform users that your website is using cookies. 
 
-Demo:
+Demo:</br>
 https://cookiebubble.netlify.com
 
 
