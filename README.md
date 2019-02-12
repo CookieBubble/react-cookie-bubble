@@ -31,7 +31,7 @@ v1.0.1
 />
 ```
 ## Versioning
-The `cookieBubble` library follows [Semantic Versioning](https://semver.org/). </br>
+The `react-cookie-bubble` library follows [Semantic Versioning](https://semver.org/). </br>
 `[MAJOR].[MINOR].[PATCH]` 
 
 ## Support
