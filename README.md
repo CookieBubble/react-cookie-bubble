@@ -34,6 +34,8 @@ v1.0.1
 The `cookieBubble` library follows [Semantic Versioning](https://semver.org/). </br>
 `[MAJOR].[MINOR].[PATCH]` 
 
+## Support
+If you encounter an issue or want to request a feature, you can [create an issue](https://github.com/CookieBubble/react-cookie-bubble/issues/new).
 
 ## Similar Projects
 - [jQuery implementation of cookieBubble](https://github.com/CookieBubble/jquery-cookie-bubble)  ✅
