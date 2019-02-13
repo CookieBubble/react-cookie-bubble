@@ -24,7 +24,7 @@ v1.0.3
 ```
 3. Usage
 ```js
-<Cookiebubble 
+<CookieBubble 
     messageTextColor="#eee"
     iconVisibility={false}
     ...
