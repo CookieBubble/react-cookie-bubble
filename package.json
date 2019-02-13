@@ -1,6 +1,6 @@
 {
   "name": "react-cookie-bubble",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "The easy way to inform users that your website is using cookies.",
   "main": "build/index.js",
   "author": "João Pereira",

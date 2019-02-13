@@ -7,7 +7,7 @@ https://cookiebubble.netlify.com
 
 ## Current version
 ````
-v1.0.1
+v1.0.3
 ````
 ## Getting Started
 
