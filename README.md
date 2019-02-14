@@ -30,6 +30,27 @@ v1.0.3
     ...
 />
 ```
+
+## Props 
+Name | Default | Options
+--- | --- | --- 
+cookieMaxAge                | 30                              | (Number)
+messageText                 | 'We use cookies to personalize your experience. </br> By continuing to visit this website you agree to our use of cookies.'      | (String)
+messageTextColor            | '#000'                          | hex, rgb, rgba
+messageFontSize             | '18px'                          | px, em, rem
+buttonText                  | 'Got it'                        | (String)
+buttonColor                 | '#00a4ff'                       | hex, rgb, rgba 
+buttonFontSize              | '18px'                          | px, em, rem 
+iconColor                   | '#00a4ff'                       | hex, rgb, rgba
+iconVisibility              | true                            | (Bool)
+cookiePolicyButtonText      | 'Read Our Cookie Policy'        | (String)
+cookiePolicyButtonTextColor | '#000'                          | hex, rgb, rgba
+cookiePolicyButtonUrl       | 'http://allaboutcookies.org/'   | url
+cookiePolicyButtonTarget    | '_blank'                        | _self
+boxAppearDelay              | 1000                            | (Number)
+boxPosition                 | 'bottom-left'                   | 'bottom-left', 'bottom-center', 'bottom-right', 'top-left', 'top-center', 'top-right'
+
+
 ## Versioning
 The `react-cookie-bubble` library follows [Semantic Versioning](https://semver.org/). </br>
 `[MAJOR].[MINOR].[PATCH]` 
